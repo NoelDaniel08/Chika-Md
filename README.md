@@ -110,3 +110,4 @@ global.sessionName = 'chika'
 - [Zeeone](https://github.com/zeeone-ofc) <br> 
 - [Yoga](https://github.com/YogGanz) <br> 
 - [Riy](https://github.com/riychdwayne) <br> 
+- [Noel](https://github.com/NoelDaniel08) <br>
